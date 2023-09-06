@@ -90,3 +90,8 @@ as you focus on the example you might notice other problems
 - linear transformations are basically matrix multiplications by specified matrices.
 
 - They can Rotate, scale, shear or even do a compination of the latter
+
+
+[Go back](./README.md)
+
+[Mathematical view of attention mechanisme](attention.mathematics.md)

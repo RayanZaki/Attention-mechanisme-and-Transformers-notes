@@ -121,3 +121,8 @@ with T is the transformation matrix
 
 - Setting more matrices enables the model to detect more complex features while preserving the linearity of the embedded space
 
+
+[Go back](./README.md)
+
+[Overall overview of attention mechanisme](attention.mechanismes.md)
+
