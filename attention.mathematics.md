@@ -56,7 +56,7 @@ x_2 \
 \dots \
 x_n 
 \end{bmatrix} . \begin{bmatrix}
-W_1 \\ W_2 \\ \vdots \\ W_n
+W_1 \\ W_2 \\ \dots \\ W_n
 \end{bmatrix}
 $$
 
