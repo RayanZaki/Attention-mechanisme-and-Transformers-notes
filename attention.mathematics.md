@@ -49,7 +49,6 @@ $$scaledDotProduct(X, Y) = \frac{dot(X, Y)}{\sqrt{len(X, Y)}}$$
 - In attention each sentence is multiplied by a normalized vector of similirities to make the transformation of a word.
 
 $$
-
 W_c = 
 \begin{bmatrix}
 x_1 \
@@ -95,7 +94,6 @@ $W_i$: the vecor of the word at the $i^{th}$ position
 - the new dot product will be as follows:
 
 $$
-
 Dot(W_1, W_2) = W^{'}_1 . T. W^t_2
 $$
 
